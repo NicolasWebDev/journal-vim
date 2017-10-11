@@ -1,7 +1,7 @@
 " Build upon Markdown syntax
 " runtime! syntax/markdown.vim
 
-unlet b:current_syntax
+unlet! b:current_syntax
 
 syntax  match  Pomodoro 'pomodoro'
 
