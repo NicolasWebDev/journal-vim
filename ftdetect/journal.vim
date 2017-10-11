@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead journal.md set filetype=journal
+autocmd BufNewFile,BufRead journal.md set filetype=markdown.journal
