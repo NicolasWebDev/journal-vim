@@ -1,5 +1,5 @@
 " Build upon Markdown syntax
-runtime! syntax/markdown.vim
+" runtime! syntax/markdown.vim
 
 unlet b:current_syntax
 
